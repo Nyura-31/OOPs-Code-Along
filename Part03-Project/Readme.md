@@ -3,7 +3,7 @@
 - Utilized `private static` member variables for automatic and unique ID generation.
 - Demonstrated the use of the `this` keyword to distinguish instance variables from constructor parameters.
 - Changed `Course`'s `courseId` to `int` for simpler auto-generation and updated its display.
-- Updated `Main.java` to use constructors and show ID progression.
+- Updated  `Main.java` to use constructors and show ID progression.
 
 ### How to Run (ensure this is up-to-date)
 1. Navigate to the project root directory.
