@@ -8,6 +8,15 @@ public class Student{
         this.name = name;
      }
 
+     public int studentId(){
+      return studentId;
+     }
+
+     public String name(){
+      return name;
+     }
+
+
      public void display(){
         System.out.println("StudentID:" + studentId + ", Name:" + name);
      }
