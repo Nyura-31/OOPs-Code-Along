@@ -8,6 +8,14 @@ public class Course{
         this.CourseName = CourseName;
      }
 
+     public int CourseId(){
+      return CourseId;
+     }
+
+     public String CourseName(){
+      return CourseName;
+     }
+
      public void display(){
         System.out.println("CourseID: C" + CourseId + ", CourseName:" + CourseName);
      }
